@@ -15,6 +15,7 @@ if tipe kamar and additional request tersedia :
 	print(booking berhasil)
 else :
 	print(tidak_tersedia)
+end if
 
 while tidak_tersedia
 	return start

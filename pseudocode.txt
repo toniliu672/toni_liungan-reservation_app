@@ -6,9 +6,9 @@ store jumlah kamar as number
 store additional request as string
 
 start
-read input tipe kamar
-read input jumlah kamar
-read input additional request
+read user input tipe kamar
+read user input jumlah kamar
+read user input additional request
 
 if tipe kamar and additional request tersedia :
 	print(total_harga)

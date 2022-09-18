@@ -1,0 +1,20 @@
+Pseudocode
+This program will allow user to book a room and add some request
+
+store tipe kamar as string
+store jumlah kamar as number
+store additional request as string
+
+start
+read input tipe kamar
+read input jumlah kamar
+read input additional request
+
+if tipe kamar and additional request tersedia :
+	print(total_harga)
+	print(booking berhasil)
+else :
+	print(tidak_tersedia)
+
+while tidak_tersedia
+	return start
